@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nocere-dev
 - 👀 I’m interested in photography and new tech
-- 🌱 I’m currently studying Games Design and Development
+- 🌱 I’m currently studying Games Design and Production
 - 📫 How to reach me tbc
 - 😄 Pronouns: he/him
