@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nocere-dev
+- 👋 Hi, I’m @sofewhours
 - 👀 I’m interested in photography and new tech
 - 🌱 I’m currently studying Games Design and Production
 - 📫 How to reach me tbc
