@@ -2,17 +2,19 @@
 
 
 ## 🚀 About Me
-I'm a Games Development student learning Unity, C#, self-learning full stack development and dabbling in godot.
+I'm a Games Development student learning Unity, C#, self-learning full stack development in addition to dabbling in godot and lua.
 
 
 ## 🛠 Skills
-C#, Music Composition
+C#, Music Composition, Git, 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my own movement shooter.
+👩‍💻 I'm currently working on my own movement shooter and personal portfiolio.
 
 🧠 I'm currently learning C# for Unity development and full stack tools.
+
+🧰 My main tools are Unity, NeoVim, VS Code, and Git.
 
 😄 Pronouns: He/Him
 
