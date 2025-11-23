@@ -1,27 +1,59 @@
-# Hi, I'm sofewhours! 👋
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/50/55/45/505545dd2f219e82931d92a77c7ba303.gif"  />
+</div>
 
+###
 
-## 🚀 About Me
-I'm a Games Development student learning Unity, C#, self-learning full stack development in addition to dabbling in godot and lua.
+<div align="center">
+  <a href="https://www.linkedin.com/in/luke-r-1b7aa11b7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
 
-## 🛠 Skills
-C#, Music Composition, Git, 
+<div align="center">
+  <img src="https://count.getloli.com/@:sofewhours?theme=original-new&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
+###
 
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working on my own movement shooter and personal portfiolio.
+<h1 align="center">hey there 👋</h1>
 
-🧠 I'm currently learning C# for Unity development and full stack tools.
+###
 
-🧰 My main tools are Unity, NeoVim, VS Code, and Git.
+<h3 align="left">👩‍💻  About Me</h3>
 
-😄 Pronouns: He/Him
+###
 
-⚡️ Fun fact: I'm teaching myself Russian.
+<p align="left">I'm Luke from Wales<br><br>- 🔭 I’m studying as a Games Design and Production Student<br>- 📚 I'm currently learning C#<br>- ⚡ In my free time, I have started making my dream movement shooter</p>
 
+###
 
-## 🔗 Links
-Yet to be made!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-r-1b7aa11b7/)
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sofewhours&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
