@@ -12,6 +12,10 @@
 
 ###
 
+<p align="center">I don't like using LinkedIn, I find it performative</p>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:sofewhours?theme=original-new&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
