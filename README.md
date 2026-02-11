@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/50/55/45/505545dd2f219e82931d92a77c7ba303.gif"  />
-</div>
-
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luke-r-1b7aa11b7/" target="_blank">
