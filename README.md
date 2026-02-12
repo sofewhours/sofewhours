@@ -1,7 +1,3 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <p align="left">
   Hey 👋What's Up?
   <br>
@@ -11,7 +7,7 @@
   <br>
   <br>My dream game is a movement shooter inspired by ultrakill and get to the orange door.
   <br>
-  <br>**Fun Facts:**<br>
+  <br><b>Fun Facts:</b><br>
   <li>
     I drive a 1996 Mazda MX-5
   </li>
@@ -21,7 +17,7 @@
   </li>
 
   <li>
-    **Hobbies:** cars, tech, cybersecurity, digital art, music
+    <b>Hobbies:</b> cars, tech, cybersecurity, digital art, music
   </li><br>
 </p>
 
