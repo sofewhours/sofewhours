@@ -9,7 +9,7 @@
   <br>
   <br><b>Fun Facts:</b><br>
   <li>
-    I drive a 1996 Mazda MX-5
+    I drive a modified 1996 Mazda MX-5
   </li>
 
   <li>
